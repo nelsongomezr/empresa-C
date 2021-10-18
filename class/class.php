@@ -2,7 +2,10 @@
 
 class trabajo 
 {
+    public function correr()
+    {
 
+    }
 }
 
 ?>
