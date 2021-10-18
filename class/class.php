@@ -6,6 +6,7 @@ class trabajo
     {
         $a=10;
         $r=24;
+        $er= "hola";
     }
 }
 
